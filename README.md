@@ -37,8 +37,8 @@ A React-based document editor built with **Lexical**, supporting rich text, tabl
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd text-editor-lexi
+git clone https://github.com/AmitBiswas1402/lexical-rich-text-editor
+cd lexical-rich-text-editor
 
 # 2. Install dependencies
 npm install
